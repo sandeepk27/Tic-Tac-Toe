@@ -1,0 +1,39 @@
+.cell {
+    background-color: #41cbf5fd;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+}
+
+#footer {
+    padding: 5em 4em 2em;
+}
+
+#footer #logo {
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+    padding: .4em;
+    font-family: "Maven pro", sans-serif;
+    font-size: 1.6em;
+    font-weight: 500;
+    display: inline;
+}
+
+#footer #copyright {
+    margin-top: 1.6em;
+    font-family: "Maven pro", sans-serif;
+    font-weight: 500;
+    color: #5a5959;
+}
+
+#main {
+    min-height: 70%;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+}
